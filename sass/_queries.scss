@@ -54,7 +54,7 @@
                 border: none;
                 border-left: 1px solid $color-light-grey;
                 padding: 1.0rem;
-                background-color: #fff;
+                background-color: $color-white;
                 &:last-child {
                     border-right: 1px solid $color-light-grey;
                 }
@@ -134,7 +134,7 @@
             &>ul>li {
                 width: 20%;
                 float: left;
-                background-color: #fff;
+                background-color: $color-white;
                 &>a {
                     font-size: 1rem;
                     line-height: 2rem;
@@ -258,7 +258,7 @@
             &>ul>li {
                 width: 20%;
                 float: left;
-                background-color: #fff;
+                background-color: $color-white;
                 &>a {
 //                    font-size: 1.414rem;
                     line-height: 2rem;

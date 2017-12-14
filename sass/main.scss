@@ -93,7 +93,7 @@ ul {
 
 .bg-content1,
 .bg-footer {
-    background-color: #fff;
+    background-color: $color-white;
     color: $color-dark-grey;
 }
 
@@ -166,7 +166,7 @@ header {
             border-bottom: none;
             padding: 1.0rem 2rem;
             line-height: 1;
-            background-color: #fff;
+            background-color: $color-white;
             &:hover {
                 font-weight: 700;
                 color: $color-dark-brown;
